@@ -1,0 +1,5 @@
+11|Smith|010-0000-0002|smith@gamil.com
+12|Blake|010-6524-2150|blake@yahoo.com
+13|Lora|010-2510-2014|lora@daum.net
+14|Scott|010-2548-3692|scott@naver.com
+15|King|010-2589-6540|king@nbc.com

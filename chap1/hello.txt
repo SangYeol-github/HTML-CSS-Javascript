@@ -1,0 +1,28 @@
+
+<!doctype html> <!-- 문서형식이 html 이에요 -->
+<html>	<!--(주석, 자바는 compiler) 반드시 html로 시작 Start Tag, Opening Tag -->    
+<head>	<!-- 머리 -->
+	<meta charset='utf-8'>
+	<title>Hello World</title> <!-- 제목 -->
+	<style>
+		span { color : red; }  <!-- style속성 : 속성값 ;마침표 /* CSS(style문법) : Cascade Style Sheet */ 주석   --> 
+	</style>
+	<script>	<!-- javascript 동적인 효과 -->
+		function test()
+		{
+			alert('버튼을 클릭했습니다');  <!-- java의 " javascipt ' -->
+		}
+	</script>
+</head>
+<body>	<!-- 몸통 -->
+	<h3>내가 만든 <span>HTML</span>  페이지</h3> <!-- 1~6 글자 크기 <h3> 1>6 1이 가장큼 -->
+	<h1>내가 만든 HTML 페이지</h1>	<!-- <span> tag의 바디  -->
+	<h6>내가 만든 HTML 페이지</h6>
+<p>	<!-- 개행 -->
+	<button type='button' onclick='test()'>클릭</button>
+</body>
+</html>	<!-- (/붙이기) End Tag, Closing Tag -->
+
+<!-- (html, css, javascript)정적인 컨텐츠 + JAVA = 동적인(dynamic) 컨텐츠 -->
+<!-- http://localhost/hello.html -->
+<!-- http://127.0.0.1/hello.html -->
