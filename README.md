@@ -1,5 +1,6 @@
 # HTML-CSS-Javascript
 정규수업   
+실행 프로그램 : Eclipse, MySQL   
    
 chap01 : 기본 HTML틀, Servlet   
 chap02 : 구구단, jsp 액션태그   
